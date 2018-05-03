@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastOverlapping</string>
+    <string name="show_toast">show toast</string>
+</resources>
